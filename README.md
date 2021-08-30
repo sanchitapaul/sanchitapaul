@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanchitapaul
-- 👀 I’m interested in big data analyis!
+- 👀 I’m interested in big data analysis!
 - 🌱 I’m currently learning python and R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
