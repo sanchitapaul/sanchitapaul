@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @sanchitapaul
-- 👀 I’m interested in big data analysis!
-- 🌱 I’m currently learning python and R
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @sanchitapaul
+🌎 I'm an environmental scientist passionate about air quality, climate change, and sustainable solutions.
+👀 Interested in big data analysis, environmental modeling, and geospatial applications.
+💻 Currently learning and working with Python and R for data science and visualization.
+🤝 Looking to collaborate on open-source projects related to climate data, environmental health, and public outreach.
+📫 Connect via LinkedIn https://www.linkedin.com/in/sanchita-paul-56494175/
 
 <!---
 sanchitapaul/sanchitapaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
